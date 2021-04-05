@@ -33,7 +33,7 @@ repositories {
 
     //LavaPlayer
     maven {
-        url 'http://maven.sedmelluq.com'
+        url 'https://m2.dv8tion.net/releases'
     }
 
     //Bungeecord-chat (needed for Spigot)
@@ -73,10 +73,10 @@ dependencies {
 
     // JDA
 
-    compile "net.dv8tion:JDA:4.2.0_206"
+    compile "net.dv8tion:JDA:4.2.1_253"
 
     // LavaPlayer
-    compile 'com.sedmelluq:lavaplayer:1.3.50'
+    compile 'com.sedmelluq:lavaplayer:1.3.75'
     compile 'club.minnced:opus-java-api:v1.0.1'
 
     // Skript API
