@@ -1,8 +1,8 @@
 name: Vixio
 description: Vixio, The Discord addon created to meet all of your Discord needs.
 main: me.iblitzkriegi.vixio.Vixio
-version: 2.0.8-patched
-author: iBlitzkriegi, sky_high (Pikachu), Olyno, carlodrift
+version: 2.0.9-patched
+author: iBlitzkriegi, sky_high (Pikachu), Olyno, carlodrift, ROJO
 website: https://github.com/carlodrift/Vixio
 depend: [Skript]
 commands:
